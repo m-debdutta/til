@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 # 4th June, 2023
 
 [Go to index](index.md)
@@ -237,3 +239,5 @@
       ```
       <details>
 ---
+
+{::options parse_block_html="false" /}
