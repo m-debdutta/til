@@ -11,7 +11,7 @@
 ## Today's Learning
 
 - <details>
-  <summary> words I learned </summary>
+  <summary markdown="span"> words I learned </summary>
 
     - shrivelled
     - trifling
@@ -98,7 +98,7 @@
     created a demo class which behaves like eventEmitter class.
 
   <details>
-  <summary> code snippet </summary>
+  <summary markdown="span"> code snippet </summary>
 
   ```js
   class StdInp {
@@ -152,7 +152,7 @@
 - command - npm
   - options
       <details>
-      <summary>init</summary>
+      <summary markdown="span">init</summary>
 
       ```sh
       npm init
@@ -160,7 +160,7 @@
       </details> 
       
       <details>
-      <summary>test</summary>
+      <summary markdown="span">test</summary>
 
       ```
       npm test
@@ -168,7 +168,7 @@
       </details>
 
       <details>
-      <summary>install</summary>
+      <summary markdown="span">install</summary>
 
       ```
       npm install --save filePath or dependency name
@@ -188,7 +188,7 @@
 ## Today's learnings 
 
 - <details>
-  <summary>Words learned</summary>
+  <summary markdown="span">Words learned</summary>
 
     - trespassed
     - unwittingly
@@ -217,13 +217,13 @@
 ## Today's learnings
   - bookReading
       - <details>
-        <summary>Words learned</summary>
+        <summary markdown="span">Words learned</summary>
 
         </details>
 
   - inheritance
       - <details>
-        <summary>define</summary>
+        <summary markdown="span">define</summary>
 
         It is a concept of a class inheriting the methods and properties of another class. When a class inherit another class, the class that inherits a class is called a derived class and the class that is being inherited is called a base class.
         </details>
@@ -234,7 +234,7 @@
     - a base/parent class is inherited by using the keyword `extends`
     - when we write a derived class `super()` should be defined first inside a constructor. If constructor is not defined js manages it.
       <details>
-      <summary>snipet</summary>
+      <summary markdown="span">snipet</summary>
 
       ```js
       class Dog extends Animal {
